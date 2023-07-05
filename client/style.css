@@ -29,7 +29,7 @@ body {
   overflow-y: scroll;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   gap: 10px;
 
   -ms-overflow-style: none;
@@ -42,6 +42,7 @@ body {
 /* hides scrollbar */
 #chat_container::-webkit-scrollbar {
   display: none;
+  
 }
 
 .wrapper {
