@@ -1,3 +1,3 @@
-https://chatgpt-git-main-dev-koushikdas.vercel.app/
+https://chatgpt-eight-plum.vercel.app/
 
 
